@@ -1,5 +1,6 @@
 class Fastqc < Formula
   homepage "http://www.bioinformatics.babraham.ac.uk/projects/fastqc/"
+  desc "Quality control tool for high throughput sequence data"
   # tag "bioinformatics"
 
   url "http://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11.3.zip"
